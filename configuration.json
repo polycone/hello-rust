@@ -1,0 +1,7 @@
+{
+  "nat_life_time": 20000,
+  "remote_ip": "127.0.0.1",
+  "remote_port": 28035,
+  "local_port": 28025,
+  "mtu": 1500
+}

@@ -1,0 +1,17 @@
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.bak
+*.cache
+*.ilk
+*.log
+bin/
+obj/
+packages/
+Build/
+.nuget/
